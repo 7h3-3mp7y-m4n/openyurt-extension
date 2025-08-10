@@ -13,6 +13,9 @@ A simple, minimal, and **one-click** way to install and run [OpenYurt](https://o
 ## Demo
 ![OpenYurt Extension Demo](./demo.png)
 
+## Architecture
+![OpenYurt Extension Arch](./lfx.png)
+
 ## Docker Extension
 To turn this project into a Docker Desktop Extension:
 ```bash
